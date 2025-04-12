@@ -5,7 +5,7 @@ Production-oriented ADHD course completion tracker and analytics dashboard built
 ## Links
 
 - GitHub repository: [https://github.com/deepgori/focusflow-adhd-tracker](https://github.com/deepgori/focusflow-adhd-tracker)
-- Live deployment: [https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app](https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app)
+- Live deployment: [https://focusflow-adhd-tracker.vercel.app](https://focusflow-adhd-tracker.vercel.app)
 
 ## Included
 
@@ -41,7 +41,7 @@ This project is deployed on Vercel as a production deployment.
 
 - Platform: Vercel
 - Project: `focusflow-adhd-tracker`
-- Live URL: [https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app](https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app)
+- Live URL: [https://focusflow-adhd-tracker.vercel.app](https://focusflow-adhd-tracker.vercel.app)
 
 ### Core product workflows
 
