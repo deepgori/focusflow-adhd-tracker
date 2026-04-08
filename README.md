@@ -2,11 +2,16 @@
 
 Production-oriented ADHD course completion tracker and analytics dashboard built with Next.js.
 
+## Links
+
+- GitHub repository: [https://github.com/deepgori/focusflow-adhd-tracker](https://github.com/deepgori/focusflow-adhd-tracker)
+- Live deployment: [https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app](https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app)
+
 ## Included
 
 - Marketing landing page at `/`
 - Interactive product demo at `/app`
-- ADHD-first dashboard, course view, focus mode, analytics, workflow center, import system, settings, and production-readiness screens
+- ADHD-first dashboard, course view, focus mode, analytics, workflow center, import system, and settings screens
 - Typed mock backend models in `src/lib`
 - Example API routes:
   - `/api/dashboard`
@@ -29,6 +34,14 @@ Production-oriented ADHD course completion tracker and analytics dashboard built
 7. Workflow center
 8. Course import
 9. Settings and accessibility
+
+## Deployment
+
+This project is deployed on Vercel as a production deployment.
+
+- Platform: Vercel
+- Project: `focusflow-adhd-tracker`
+- Live URL: [https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app](https://focusflow-adhd-tracker-pygmgyo87-vedang-jadhavs-projects.vercel.app)
 
 ### Core product workflows
 
